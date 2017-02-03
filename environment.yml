@@ -1,0 +1,7 @@
+
+name: mybinder-environment
+
+dependencies:
+- numpy
+- matplotlib
+- basemap
